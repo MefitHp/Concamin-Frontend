@@ -1,0 +1,5 @@
+.newsfeed {
+    display: flex;
+    margin: 0 20px;
+    border: 1px solid black;
+}
